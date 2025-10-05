@@ -4,7 +4,9 @@
 - ![image alt](
 - Route Tables
   ![image alt](
+- Auto Scaling Group  
+  ![image alt](https://github.com/Bhagyavan8050/AWS-VPC-Prod/blob/00c408059e904de297fe83ceeb9a957f0c8270f7/docs/ASG.png)
 - Subnets Configuration
   ![image alt](
-- EC2 Connectivity Test
+- EC2 Connectivity Test  
   ![image alt](
