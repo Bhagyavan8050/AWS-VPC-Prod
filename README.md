@@ -24,18 +24,18 @@ A local machine with SSH client. Keep your .pem private key secure and not commi
 
 
 # Basic Prerequisites (detailed)
-An AWS Account
-IAM user with permissions: EC2FullAccess, VPCFullAccess, IAMFullAccess
-AWS CLI installed and configured (aws configure)
-Key pair for SSH access
-Basic understanding of networking (CIDR, subnets, routing)
+An AWS Account  
+IAM user with permissions: EC2FullAccess, VPCFullAccess, IAMFullAccess  
+AWS CLI installed and configured (aws configure)  
+Key pair for SSH access  
+Basic understanding of networking (CIDR, subnets, routing)  
 
 
 # Documentation
-Detailed setup steps are located in the /docs/ folder:
-/docs/implementation.md – Full step-by-step VPC setup
-/docs/troubleshooting.md – Common issues and fixes
-/docs/security.md – Security best practices
+Detailed setup steps are located in the /docs/ folder:  
+/docs/implementation.md – Full step-by-step VPC setup  
+/docs/troubleshooting.md – Common issues and fixes  
+/docs/security.md – Security best practices  
 /docs/screenshots.md – Architecture & AWS console screenshots.
 
 # Screenshots
