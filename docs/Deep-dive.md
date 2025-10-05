@@ -116,11 +116,11 @@ This project demonstrates how to design and deploy a **custom AWS Virtual Privat
 
 ## 8. Security Considerations
 
-✅ Use least privilege IAM roles
-✅ Restrict inbound SSH by specific IP
-✅ Regularly rotate keys and credentials
-✅ Enable flow logs for VPC for monitoring
-✅ Avoid using default VPC for production setups
+ Use least privilege IAM roles  
+ Restrict inbound SSH by specific IP  
+ Regularly rotate keys and credentials  
+ Enable flow logs for VPC for monitoring  
+ Avoid using default VPC for production setups
 
 ---
 
@@ -134,10 +134,4 @@ This project demonstrates how to design and deploy a **custom AWS Virtual Privat
 
 ---
 
-## 10. Outcome
 
-After completion:
-
-* You have a **fully functional and secure AWS VPC** setup.
-* You understand **network isolation, routing, and access control**.
-* You can confidently discuss **AWS networking architecture** in interviews.
