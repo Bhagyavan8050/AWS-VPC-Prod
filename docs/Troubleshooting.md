@@ -1,4 +1,4 @@
-# 🧰 Troubleshooting Guide
+#  Troubleshooting Guide
 
 | Issue | Cause | Fix |
 |-------|--------|-----|
