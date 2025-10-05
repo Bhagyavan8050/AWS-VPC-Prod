@@ -17,9 +17,8 @@ Validation tests and troubleshooting guides.
 
 # Quick Start Guide
 #  Prerequisites
-AWS account with permissions to create VPCs, EC2, IGW, NAT Gateway, IAM roles, Security Groups.
+AWS account with permissions to create VPCs, EC2, IGW, NAT Gateway, Security Groups.
 AWS CLI installed and configured (aws configure).
-Terraform or Ansible installed (depending on which IaC you use in this repo).
 A local machine with SSH client. Keep your .pem private key secure and not committed to git.
 
 
