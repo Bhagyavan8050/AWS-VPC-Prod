@@ -12,6 +12,7 @@ IAM roles for EC2 (no hard-coded credentials)
 Validation tests and troubleshooting guides.
 
 architecture diagram:
+![image alt](https://github.com/Bhagyavan8050/AWS-VPC-Prod/blob/55b9085bf37cc4c337c7a1d30618bd1022254c25/Architecture.png)
 
 
 
