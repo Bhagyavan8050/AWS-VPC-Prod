@@ -3,14 +3,13 @@
 This repository contains IaC and deployment instructions for building a secure, production-like AWS VPC environment. The goal is to demonstrate best-practice network design, secure access patterns (bastion host), outbound internet via NAT, and least-privilege IAM usage for EC2 instances.
 
 # Key outcomes:
-Custom VPC with public and private subnets
-Internet Gateway (IGW) for public networking
-NAT Gateway for private subnet outbound access
-Route tables and subnet associationsSecurity Groups and NACLs for layered security
-EC2 instances in both public/private
-subnets (bastion + app)
-IAM roles for EC2 (no hard-coded credentials)
-Validation tests and troubleshooting guides.
+Custom VPC with public and private subnets  
+Internet Gateway (IGW) for public networking  
+NAT Gateway for private subnet outbound access  
+Route tables and subnet associationsSecurity Groups and NACLs for layered security  
+EC2 instances in both public/private  
+subnets (bastion + app)    
+Validation tests and troubleshooting guides.    
 
 # Architecture diagram:
 ![image alt](https://github.com/Bhagyavan8050/AWS-VPC-Prod/blob/55b9085bf37cc4c337c7a1d30618bd1022254c25/Architecture.png)
