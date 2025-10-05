@@ -49,15 +49,15 @@ Detailed setup steps are located in the /docs/ folder:
 
 
 # Useful Links
-[AWS VPC Documentation](https://docs.aws.amazon.com/vpc/)
-[AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/)
-[AWS IAM Best Practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
+[AWS VPC Documentation](https://docs.aws.amazon.com/vpc/)  
+[AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/)  
+[AWS IAM Best Practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)  
 [CIDR Calculator](https://www.ipaddressguide.com/cidr)
 
 
 # 👨‍💻 Author
-Bhagyavan Bhange
-DevOps Engineer | AWS | Terraform | Jenkins | Ansible
-Email: Bhagyavanbhange8050@gmail.com
-LinkedIn: [ProfileLink](https://www.linkedin.com/in/bhagyavan-bhange-1196a0227/)
+Bhagyavan Bhange  
+DevOps Engineer | AWS | Terraform | Jenkins | Ansible  
+Email: Bhagyavanbhange8050@gmail.com  
+LinkedIn: [ProfileLink](https://www.linkedin.com/in/bhagyavan-bhange-1196a0227/)  
 
