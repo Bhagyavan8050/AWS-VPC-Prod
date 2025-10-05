@@ -1,4 +1,4 @@
-# 🔒 Security Considerations
+# Security Considerations
 
 - Restrict SSH access to specific IPs only.
 - Use IAM roles instead of long-term access keys.
